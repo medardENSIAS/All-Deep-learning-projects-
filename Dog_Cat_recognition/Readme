@@ -1,0 +1,1 @@
+Les données sont celle d’une banque qui est entrain de perdre ses clients . Ce projet basé sur les réseaux de neurone simple a pour but d‘évaluer le niveau de satisfaction des clients en fin de les amélioré,
