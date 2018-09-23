@@ -1,1 +1,2 @@
-Les données sont celle d’une banque qui est entrain de perdre ses clients . Ce projet basé sur les réseaux de neurone simple a pour but d‘évaluer le niveau de satisfaction des clients en fin de les amélioré,
+Mission 
+Mon but pour ce projet est de mettre en place une application de reconnaissance d'animaux en python basé sur les réseaux de neurone à convolution . L’application prend en entrée l’image d’un lion par exemple et en sortie indique que c’est un lion. Pour le raison de manque de données j’ai travailler que sur la reconnaissance des chiens et chats.
